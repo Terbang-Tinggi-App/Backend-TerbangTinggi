@@ -43,3 +43,21 @@
 6. Make PR to Github web.
 7. Back to main branch
    `git checkout main`
+
+---
+
+# REST API Terbang Tinggi
+
+## Install
+
+    npm install
+
+## Run the app
+
+    npm run dev
+
+## Online Documentation
+
+- [Swagger API Documentation](https://terbangtinggi-api-staging.km3ggwp.com/api/docs/)
+
+- [Postman API Documentation](https://documenter.getpostman.com/view/23103147/2s8YsxurAy)
