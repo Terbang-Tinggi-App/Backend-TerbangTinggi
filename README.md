@@ -16,9 +16,26 @@ Terbang Tinggi App is a place to buy and book flight tickets online, both one wa
 
 Features:
 
+User :
+
 - [x] Authentication : Register, Login, Google Oauth
 - [x] Authorization : Role and Permission
 - [x] Edit Profile User
+- [x] Search Aiport
+- [x] Search Flight
+- [x] Search Flight
+- [x] Booking Flight
+- [x] CRUD Transaction and Payment
+- [x] In App Notification
+- [x] Print Ticket PDF
+- [x] QR Code Ticket
+
+Admin :
+
+- [x] CRUD Flight
+- [x] CRUD User
+- [x] Pagination and Sorting User
+- [x] CRUD Notification
 
 ## Install
 
